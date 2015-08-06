@@ -6,7 +6,7 @@
 package javaapplication1;
 
 /**
- *
+ * creat 06/08/2015
  * @author mhcrnl
  */
 public class JavaApplication1 {
