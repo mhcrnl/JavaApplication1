@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/web/create.xhtml</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/web/WEB-INF/template.xhtml</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/src/java/org/glassfish/samples/model/Agenda.java</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/src/java/org/glassfish/samples/jsf/AgendaController.java</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/web/WEB-INF/beans.xml</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/web/show.xhtml</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/src/java/org/glassfish/samples/AgendaEJB.java</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/src/java/org/glassfish/samples/TestServlet.java</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/test/org/glassfish/samples/AgendaEJBTest.java</file>
+            <file>file:/home/mhcrnl/NetBeansProjects/JavaEE6Webinar1/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
